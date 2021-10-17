@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "userfirstname": "Bapuso",
+      "userlastname": "Sawant",
+      "useremail": "sawant@gmail.com",
+      "gender": "",
+      "userage": 21,
+      "language": "javascript",
+      "languageId": 4,
+      "id": 1
+    },
+    {
+      "userfirstname": "as",
+      "userlastname": "asdf",
+      "useremail": "asdf",
+      "gender": "",
+      "userage": 21,
+      "language": ".net",
+      "languageId": 3,
+      "id": 4
+    }
+  ],
+  "userLanguages": [
+    {
+      "languageName": "JS",
+      "languageDescription": "JavaScript is oops language.com",
+      "languageLink": "java.com",
+      "id": 1
+    },
+    {
+      "languageName": ".net",
+      "languageDescription": ".net language",
+      "languageLink": ".net.com",
+      "id": 3
+    },
+    {
+      "languageName": "javascript",
+      "languageDescription": "ts",
+      "languageLink": "ts.com",
+      "id": 4
+    }
+  ],
+  "posts": [],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
